@@ -1,6 +1,15 @@
 # youtube_player_app
 
-A new Flutter project.
+A new Flutter project that shows how to add **YouTube** videos to **Flutter** App and play it with the help of **youtube_player_flutter** packages
+with the abiltiy to control the video [Play, Puase, SeekTo, Mute and unMute].
+the package: https://pub.dev/packages/youtube_player_flutter
+
+You can watch the episode on Youtube: https://youtu.be/LNj8kiF0giM
+
+![y](https://user-images.githubusercontent.com/36349126/190734633-cf1086db-3b7f-42e5-a85c-f9b121fd2273.png)
+
+
+
 
 ## Getting Started
 
